@@ -4,3 +4,26 @@
 /First/Fraunhofer
 /First/images
 *.exe
+/First/fast_method.py
+/First/change_names.py
+/Second/orl_faces_high_cloaked/
+/First/hard_fawkes.py
+*.docx
+*.csv
+*.xls
+*.png
+*.txt
+/Second/результаты_для_каждого_признака/
+/Second/результаты голосования/
+/Second/результат_маски_каждый_признак/
+/Second/результат_маска_голосование/
+/Second/результат_деинд_каждый_признак/
+/Second/результат_деинд_голосование/
+/Second/work_3_9/
+/Second/work_1_9/
+/Second/predict/
+/Second/orl_faces_with_mask/
+/Second/orl_faces/
+/Second/main.py
+/Third/predict/
+/Third/pictures/

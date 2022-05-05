@@ -1,0 +1,1 @@
+Ссылка на видео и отчеты: https://disk.yandex.ru/i/YHbDpVzH5mZu0w
